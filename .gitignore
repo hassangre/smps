@@ -1,0 +1,21 @@
+# MATLAB autosave / backups
+*.asv
+*.m~
+*.autosave
+
+# Binaires compilés
+*.mex*
+*.p
+
+# Simulink / codegen
+slprj/
+codegen/
+*.slxc
+
+# Données volumineuses (à ajuster selon ton cas)
+# *.mat
+
+# Système / éditeur
+.DS_Store
+.vscode/
+*.swp
